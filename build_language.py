@@ -5,7 +5,9 @@ Language.build_library(
     [
         'vendor/tree-sitter-java',
         'vendor/tree-sitter-python',
-
+        'vendor/tree-sitter-c',
+        'vendor/tree-sitter-javascript',
+         'vendor/tree-sitter-javascript',
     ]
 )
 
